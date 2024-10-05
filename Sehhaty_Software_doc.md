@@ -183,10 +183,16 @@ We conducted a survey to assess the effectiveness of Sehhaty services among app 
 
 The use case diagram outlines a comprehensive set of interactions within the Sehhaty system, showcasing how patients and healthcare providers use the platform for health management and communication.
 
+![Use Case ](img/Blank diagram - Page 1.png)
+
+---
 #### 6.2 Activity Diagram
 
 This diagram illustrates how users interact with Sehhaty from login to performing various tasks such as booking appointments, ordering medications, and viewing health records.
 
+![Activity Daigram ](img/activity.png)
+
+---
 #### 6.3 System Architecture
 
 Sehhaty’s architecture is based on distributed services and cloud technologies, with the following layers:
@@ -195,6 +201,9 @@ Sehhaty’s architecture is based on distributed services and cloud technologies
 - **Database Layer**: Stores user data, appointments, and health records.
 - **Integration Layer**: Connects to hospital and pharmacy systems.
 - **Security Layer**: Ensures data and communication protection.
+- 
+![System Architecture ](img/Blank diagram (9).png)
+---
 
 #### 6.4 Hardware Requirements
 
