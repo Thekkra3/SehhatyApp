@@ -30,5 +30,37 @@ It is a health application that aims to facilitate access to health services in 
 - Security: The application must ensure the protection of user data from unauthorized access.
 - Ease of use: Requires a simple and easy-to-interact user interface design.
 - Performance: The application must be fast and operate efficiently.
-- Compatibility: The application must support work on various mobile devices and operating systems.
+- ---
+
+### 2. Main Tasks
+
+The Sehhaty software performs the following tasks:
+
+- **Appointment management**: Organizes and books medical appointments.
+- **Access to health information**: Provides users with health information and educational resources.
+- **Communication with healthcare providers**: Facilitates communication between users and doctors.
+- **Personal health tracking**: Enables users to track their health status and changes.
+
+---
+
+### 3. Purpose of Sehhaty app:
+
+The Sehhaty app helps users track their health and fitness by recording sports activities, diet, steps, and weight. It provides reports to understand users' healthy lifestyle.
+
+#### 3.1 Features:
+
+- Store and track health data such as medical records, tests, etc.
+- Schedule appointments with doctors through the app.
+- Access reliable health information to make informed health decisions.
+- Medical consultations for easy access to health information.
+- Health alerts for medication schedules.
+
+#### 3.2 Problems Solved by the Application:
+
+- Lack of unified health records leading to loss of important health information.
+- Limited communication with healthcare providers affects the quality of healthcare.
+- Difficulty obtaining remote medical consultations before the Sehhaty app.
+- Managing medication schedules.
+
+---: The application must support work on various mobile devices and operating systems.
 
