@@ -62,5 +62,5 @@ The Sehhaty app helps users track their health and fitness by recording sports a
 - Difficulty obtaining remote medical consultations before the Sehhaty app.
 - Managing medication schedules.
 
----: The application must support work on various mobile devices and operating systems.
+---
 
