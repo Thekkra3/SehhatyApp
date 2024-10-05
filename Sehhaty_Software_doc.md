@@ -164,4 +164,8 @@ Features of the Healthy Health app (Apple Health):
 - Conclusion -Healthy app is an excellent choice for Apple users who want comprehensive health tracking and integration with smart wearable devices.
 - However, the Sehaty app is a strong choice for active Saudi users looking for reliable health services and reliable medical
 ---
+### 5. Questionnaire
 
+We conducted a survey to assess the effectiveness of Sehhaty services among app users.
+
+---
