@@ -177,3 +177,64 @@ We conducted a survey to assess the effectiveness of Sehhaty services among app 
 ![Questionnaire](img/g6.png)
 
 ---
+### 6. System Architectures And Data Models
+
+#### 6.1 Use Case Diagram
+
+The use case diagram outlines a comprehensive set of interactions within the Sehhaty system, showcasing how patients and healthcare providers use the platform for health management and communication.
+
+#### 6.2 Activity Diagram
+
+This diagram illustrates how users interact with Sehhaty from login to performing various tasks such as booking appointments, ordering medications, and viewing health records.
+
+#### 6.3 System Architecture
+
+Sehhaty’s architecture is based on distributed services and cloud technologies, with the following layers:
+- **Front-end**: User interaction layer.
+- **Back-end**: Manages requests and provides results.
+- **Database Layer**: Stores user data, appointments, and health records.
+- **Integration Layer**: Connects to hospital and pharmacy systems.
+- **Security Layer**: Ensures data and communication protection.
+
+#### 6.4 Hardware Requirements
+
+- **Servers**: Cloud-based or on-premises (e.g., AWS EC2, Azure VMs).
+- **Networking Devices**: Routers, network adapters.
+- **Storage Systems**: Secure cloud storage (e.g., AWS S3, Google Cloud).
+- **Firewalls and IDS**: For network security.
+
+#### 6.5 Software Requirements
+
+- **Backend Frameworks**: Spring Boot, Django.
+- **DBMS**: MySQL, PostgreSQL.
+- **Cloud Services**: AWS, Microsoft Azure.
+- **Security Software**: SSL/TLS for encryption.
+- **Monitoring Tools**: Prometheus, ELK Stack.
+
+#### 6.6 Cloud Architecture
+
+Sehhaty leverages cloud services for high performance:
+- **Compute**: AWS EC2 or Azure VMs for back-end services.
+- **Storage**: AWS S3 or Azure Blob Storage for large files.
+- **Networking**: Secure networks using AWS VPC or Azure Virtual Network.
+- **Security Services**: AWS Shield, AWS IAM.
+
+#### 6.7 Database Requirements
+
+- **Users Table**: Stores user details like UserID, Name, Email, etc.
+- **Appointments Table**: Stores appointment details like AppointmentID, UserID, DoctorID, etc.
+- **MedicalRecords Table**: Stores medical records.
+- **PharmacyOrders Table**: Stores medication orders.
+- **Hospitals Table**: Stores hospital details.
+
+**Relationships between tables**:
+- One user can book multiple appointments.
+- A user can have multiple medical records.
+- A user can order multiple medications.
+
+**Database Type**: Relational DB (e.g., MySQL, PostgreSQL).
+- **Data Security**: Encryption for data at rest and in transit.
+- **Access Control**: Role-based permissions.
+- **Backup and Recovery**: Regular backups for service continuity.
+- **Scalability and Performance**: Partitioning or sharding, indexes for fast data access.
+- **Health Standards Compliance**: HL7, FHIR for integration with hospital systems.
