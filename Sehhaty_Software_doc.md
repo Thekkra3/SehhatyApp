@@ -207,7 +207,7 @@ Sehhaty’s architecture is based on distributed services and cloud technologies
 - **Integration Layer**: Connects to hospital and pharmacy systems.
 - **Security Layer**: Ensures data and communication protection.
 
- ![System Architecture ](img/Blank diagram (9).png)
+ ![System Architecture ](img/arch.png)
  
 ---
 
