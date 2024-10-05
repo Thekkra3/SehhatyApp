@@ -183,7 +183,12 @@ We conducted a survey to assess the effectiveness of Sehhaty services among app 
 
 The use case diagram outlines a comprehensive set of interactions within the Sehhaty system, showcasing how patients and healthcare providers use the platform for health management and communication.
 
-![Use Case ](img/Blank diagram - Page 1.png)
+![Use Case](img/usecase.png)
+
+
+
+
+
 
 ---
 #### 6.2 Activity Diagram
