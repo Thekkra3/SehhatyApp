@@ -1,7 +1,6 @@
 
 **Software Documentation and Technical**
 
-**Writing**
 
 
 **Sehhaty Software Application**
